@@ -17,17 +17,22 @@ How to
 FAQ
 =========
 
-Q: What components are currently supported?
-A: Servo only as of now
+What components are currently supported?
 
-Q: Will you add support for more components?
-A: Sure! In the coming future, I'll keep it in mind
+	Servo only as of now
 
-Q: Can I upgrade LeapJS to 0.3?
-A: No, leave it at 0.2.2, 0.3 is in beta and breaks the current code
+Will you add support for more components?
 
-Q: Does it work beautifully and perfectly?
-A: Nope, sorry! This was just something I hacked together in an hour
+	Sure! In the coming future, I'll keep it in mind
 
-Q: Does money grow on trees?
-A: Yes :)
+Can I upgrade LeapJS to 0.3?
+	
+	No, leave it at 0.2.2, 0.3 is in beta and breaks the current code
+
+Does it work beautifully and perfectly?
+
+	Nope, sorry! This was just something I hacked together in an hour
+
+Does money grow on trees?
+	
+	Yes :)
