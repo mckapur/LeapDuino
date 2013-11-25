@@ -6,7 +6,7 @@ Interact with the Arduino using the Leap Motion
 How to
 =========
 
-1. Grab an Arduino (arduino.cc) and a Leap Motion (leapmotion.com)
+1. Grab an Arduino (http://www.arduino.cc) and a Leap Motion (http://www.leapmotion.com)
 2. Connect the desired components to your Arduino, to the pins specified in the code
 3. Install modules
 4. Connect Arduino and Leap to your computer
